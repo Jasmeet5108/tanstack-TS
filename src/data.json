@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "first_name": "Jasmeet",
+        "last_name": "Singh",
+        "email": "jasmeet@gmail.com",
+        "gender": "male",
+        "city": "Delhi"
+    },
+    {
+        "id": 2,
+        "first_name": "Sonu",
+        "last_name": "Gautam",
+        "email": "sonu@gmail.com",
+        "gender": "male",
+        "city": "Kanpur"
+    },
+    {
+        "id": 3,
+        "first_name": "Vidish",
+        "last_name": "Kumar",
+        "email": "vidish@gmail.com",
+        "gender": "male",
+        "city": "Sonipat"
+    }
+]
